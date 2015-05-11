@@ -1,4 +1,9 @@
 <?php
+	echo "Hallo Rena";
+	echo "Edit oleh K3513036"
+?>
+
+<?php
 /**
  * CodeIgniter
  *
