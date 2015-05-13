@@ -1,6 +1,6 @@
 <?php
 //komentar pertama
-//komentar kedua
+
 /**
  * CodeIgniter
  *
