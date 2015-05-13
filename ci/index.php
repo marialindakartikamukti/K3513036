@@ -1,5 +1,6 @@
 <?php
 //komentar pertama
+//tambah 1 baris komentar
 
 /**
  * CodeIgniter
